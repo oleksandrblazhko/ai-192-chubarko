@@ -1,0 +1,24 @@
+@startuml
+package "App" {
+  [First Component] - HTTP 
+  HTTP - [Another Component]
+}
+
+node "Server" {
+  FTP - [Second Component]
+  [First Component] --> FTP
+}
+
+cloud {
+  [Processing]
+}
+
+database "MySql" {
+  folder "Work folder" {
+    [Folder 1]
+  }
+}
+
+[Another Component] --> [Processing] #Blue
+[Processing] --> [Folder 1] #Blue
+@enduml
