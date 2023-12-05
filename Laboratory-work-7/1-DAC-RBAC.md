@@ -4,15 +4,13 @@
 
 PostgreSQL вже було встановлено.
 
-![image](https://github.com/oleksandrblazhko/ai-192-chubarko/laboratory-work-7/Laboratory-work-7/img/####)
-
 ## Крок 2
 
 ### Створіть термінальну консоль psql через утиліту командного рядка вашої ОС та встановіть з’єднання з БД postgres від імені користувача-адміністратора postgres
 
 Було встановлено з’єднання з БД postgres від імені користувача-адміністратора postgres
 
-![image](https://github.com/oleksandrblazhko/ai-192-chubarko/laboratory-work-7/Laboratory-work-7/img/####)
+![image](https://github.com/oleksandrblazhko/ai-192-chubarko/laboratory-work-7/Laboratory-work-7/img/Screenshot_1.png)
 
 ## Крок 3
 
